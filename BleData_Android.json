@@ -1,0 +1,12 @@
+{
+    "revision": 1,
+    "timestamp": 2015-12-22T11:35:00,
+    "deviceInfo": {
+        "Nexus 5": {
+            "authorisationThreshold": -45
+        },
+        "default": {
+            "authorisationThreshold": -50
+        }
+    }
+}
