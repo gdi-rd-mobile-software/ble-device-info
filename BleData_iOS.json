@@ -3,10 +3,10 @@
     "timestamp": 20151222,
     "deviceInfo": {
         "iPhone 6": {
-            "authorisationThreshold": 50
+            "authorisationThreshold": "-50"
         },
         "default": {
-            "authorisationThreshold": 50
+            "authorisationThreshold": "-50"
         }
     }
 }
