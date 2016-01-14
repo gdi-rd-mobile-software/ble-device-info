@@ -2,5 +2,10 @@
     "revision": 14,
     "timestamp": "20160114T20:28:00",
     "devices": [
+        {
+            "modelName": "default",
+            "authorisationThreshold": "-50",
+            "timeout": "5"
+        }
     ]
 }
