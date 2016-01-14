@@ -4,13 +4,13 @@
     "devices": [
         {
             "modelName": "",
-            "authorisationThreshold": "-45",
-            "timeout": "5"
+            "authorisationThreshold": "",
+            "timeout": ""
         },
         {
-            "modelName": "default",
-            "authorisationThreshold": "-50",
-            "timeout": "5"
+            "modelName": "",
+            "authorisationThreshold": "",
+            "timeout": ""
         }
     ]
 }
