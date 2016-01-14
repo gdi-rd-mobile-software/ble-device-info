@@ -8,7 +8,7 @@
             "timeout": ""
         },
         {
-            "modelName": "",
+            "modelName": "default",
             "authorisationThreshold": "",
             "timeout": ""
         }
