@@ -3,14 +3,13 @@
     "timestamp": "20160114T20:28:00",
     "devices": [
         {
-            "modelName": "",
-            "authorisationThreshold": "",
-            "timeout": ""
+            "modelName": "iPhone7,2",
+            "timeout": "5"
         },
         {
             "modelName": "default",
-            "authorisationThreshold": "",
-            "timeout": ""
+            "authorisationThreshold": "-50",
+            "timeout": "5"
         }
     ]
 }
