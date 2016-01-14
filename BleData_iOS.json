@@ -4,6 +4,7 @@
     "devices": [
         {
             "modelName": "iPhone7,2",
+            "authorisationThreshold": "",
             "timeout": "5"
         },
         {
