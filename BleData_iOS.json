@@ -4,12 +4,12 @@
     "devices": [
         {
             "modelName": "iPhone7,2",
-            "authorisationThreshold": "30",
+            "authorisationThreshold": "0",
             "timeout": "5"
         },
         {
             "modelName": "default",
-            "authorisationThreshold": "0",
+            "authorisationThreshold": "-50",
             "timeout": "5"
         }
     ]
