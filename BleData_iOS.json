@@ -1,10 +1,11 @@
 {
-    "revision": 3,
-    "timestamp": "20160113T16:14:00",
+    "revision": 4,
+    "timestamp": "20160114T15:34:00",
     "devices": [
         {
             "modelName": "default",
-            "authorisationThreshold": "-45"
+            "authorisationThreshold": "-45",
+            "timeout": "5"
         }
     ]
 }
