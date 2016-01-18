@@ -1,14 +1,14 @@
 {
-    "revision": 14,
-    "timestamp": "20160114T20:28:00",
+    "revision": 15,
+    "timestamp": "20160118T17:47:00",
     "devices": [
         {
-            "modelName": "iPhone7,2",
-            "authorisationThreshold": "-45",
+            "modelName": "iPhone4,1",
+            "authorisationThreshold": "-5",
             "timeout": "5"
         },
         {
-            "modelName": "iPhone4,1",
+            "modelName": "iPhone7,2",
             "authorisationThreshold": "-45",
             "timeout": "5"
         },
