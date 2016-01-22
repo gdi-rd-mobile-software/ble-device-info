@@ -1,9 +1,12 @@
 {
-    "revision": 1,
-    "timestamp": "2015-12-22T11:35:00",
+    "revision": 2,
+    "timestamp": "2016-01-22T21:29:00",
     "deviceInfo": {
         "Nexus 5": {
             "authorisationThreshold": -45
+        },
+        "SM-G920I": {
+            "authorisationThreshold": -55
         },
         "default": {
             "authorisationThreshold": -50
