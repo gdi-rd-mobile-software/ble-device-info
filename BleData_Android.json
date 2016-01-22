@@ -1,17 +1,17 @@
 {
-    "revision": 6,
-    "timestamp": "2016-01-22T23:45:00",
+    "revision": 7,
+    "timestamp": "2016-01-23T00:00:00",
     "deviceInfo": {
         "Nexus 5": {
-            "authorisationThreshold": -5
+            "authorisationThreshold": -45
         },
         "SM-G920I": {
             "commercial_name": "Samsung Galaxy S6",
-            "authorisationThreshold": -5
+            "authorisationThreshold": -55
         },
         "XT1092": {
             "commercial_name": "Moto X",
-            "authorisationThreshold": -5
+            "authorisationThreshold": -45
         },
         "default": {
             "authorisationThreshold": -35
