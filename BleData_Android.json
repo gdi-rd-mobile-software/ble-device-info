@@ -9,7 +9,7 @@
             "authorisationThreshold": -55
         },
         "default": {
-            "authorisationThreshold": -50
+            "authorisationThreshold": -35
         }
     }
 }
