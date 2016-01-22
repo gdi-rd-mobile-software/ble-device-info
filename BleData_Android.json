@@ -10,7 +10,7 @@
         },
         "XT1092": {
             "commercial_name": "Moto X",
-            "authorisationThreshold": -40
+            "authorisationThreshold": -45
         },
         "default": {
             "authorisationThreshold": -35
