@@ -1,11 +1,15 @@
 {
-    "revision": 3,
-    "timestamp": "2016-01-22T21:38:00",
+    "revision": 4,
+    "timestamp": "2016-01-22T21:41:00",
     "deviceInfo": {
         "Nexus 5": {
             "authorisationThreshold": -45
         },
         "SM-G920I": {
+            "authorisationThreshold": -55
+        },
+        "XT1092": {
+            "commercial_name": "Moto X",
             "authorisationThreshold": -55
         },
         "default": {
