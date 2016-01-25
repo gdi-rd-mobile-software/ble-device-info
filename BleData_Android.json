@@ -2,5 +2,8 @@
     "revision": 9,
     "timestamp": "2016-01-23T15:04:00",
     "deviceInfo": {
+        "default": {
+            "authorisationThreshold": -35
+        }
     }
 }
