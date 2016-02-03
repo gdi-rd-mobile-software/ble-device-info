@@ -1,6 +1,6 @@
 {
-    "revision": 10,
-    "timestamp": "2016-01-26T12:15:00",
+    "revision": 11,
+    "timestamp": "2016-02-03T09:56:00",
     "deviceInfo": {
         "Nexus 5": {
             "authorisationThreshold": -45
@@ -11,7 +11,7 @@
         },
         "XT1092": {
             "commercial_name": "Moto X",
-            "authorisationThreshold": -50,
+            "authorisationThreshold": -50
             "rescanTimer": 1000
         },
         "default": {
