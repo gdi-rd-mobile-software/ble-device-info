@@ -11,7 +11,6 @@
         },
         "XT1092": {
             "commercial_name": "Moto X",
-            "authorisationThreshold": -50
             "rescanTimer": 1000
         },
         "default": {
