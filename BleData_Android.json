@@ -53,7 +53,7 @@
             "commercial_name": "Samsung Galaxy S6",
             "authorisationThreshold": -55
         },
-		"SM-N910F": {
+        "SM-N910F": {
             "authorisationThreshold": -50
         },
 
@@ -89,10 +89,10 @@
         "ALE-L21": {
             "authorisationThreshold": -42
         },
-		"SM-G925F": {
+        "SM-G925F": {
             "authorisationThreshold": -60
         },
-		"SM-N910F": {
+        "SM-N910F": {
             "authorisationThreshold": -55
         },
         "default": {
