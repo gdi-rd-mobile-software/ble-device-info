@@ -1,21 +1,109 @@
 {
-    "revision": 12,
-    "timestamp": "2016-02-03T10:01:00",
+    "revision": 28,
+    "timestamp": "2016-02-19T17:15:01",
     "deviceInfo": {
-        "Nexus 5": {
-            "authorisationThreshold": -45
+        "DEVICE_NAME_GOES_HERE": {
+            "commercial_name": "COMERCIAL NAME",
+            "authorisationThreshold": -50,
+            "rescanTimer": 1000
+        },
+        "HTC One_M8": {
+            "authorisationThreshold": -56,
+            "rescanTimer": 100
+        },
+        "Nexus5": {
+            "authorisationThreshold": -35
+        },
+        "Nexus 5X": {
+            "authorisationThreshold": -40
+        },
+        "Nexus 6": {
+            "authorisationThreshold": -62
+        },
+        "Nexus 6P": {
+            "authorisationThreshold": -50
+        },
+        "One A2003": {
+            "authorisationThreshold": -30
+        },
+        "LG-H815": {
+            "authorisationThreshold": -38
+        },
+        "LG-D855": {
+            "authorisationThreshold": -55,
+            "rescanTimer": 100
+        },
+        "LG-D620": {
+            "authorisationThreshold": -45,
+            "rescanTimer": 100
+        },
+        "LG-D722": {
+            "authorisationThreshold": -60,
+            "rescanTimer": 100
+        },
+        "XT1032": {
+            "authorisationThreshold": -57,
+            "rescanTimer": 100
+        },
+        "XT1092": {
+            "commercial_name": "Moto X",
+            "authorisationThreshold": -50
         },
         "SM-G920I": {
             "commercial_name": "Samsung Galaxy S6",
             "authorisationThreshold": -55
         },
-        "XT1092": {
-            "commercial_name": "Moto X",
+		"SM-N910F": {
+            "authorisationThreshold": -50
+        },
+
+        "SM-G928F": {
+            "authorisationThreshold": -50
+        },
+        "D2403": {
+            "authorisationThreshold": -54,
+            "rescanTimer": 100
+        },
+        "D6603": {
+            "authorisationThreshold": -55
+        },
+        "LG-H525n": {
+            "authorisationThreshold": -40
+        },
+        "PLK-AL10": {
+            "authorisationThreshold": -50
+        },
+        "SM-J500FN": {
             "authorisationThreshold": -50,
-            "rescanTimer": 1000
+            "rescanTimer": 100
+        },
+        "SM-G900F": {
+            "authorisationThreshold": -56
+        },
+        "SM-A500FU": {
+            "authorisationThreshold": -55
+        },
+        "MI NOTE Pro": {
+            "authorisationThreshold": -50
+        },
+        "ALE-L21": {
+            "authorisationThreshold": -42
+        },
+		"SM-G925F": {
+            "authorisationThreshold": -60
+        },
+		"SM-N910F": {
+            "authorisationThreshold": -55
         },
         "default": {
-            "authorisationThreshold": -35
+            "authorisationThreshold": -40
         }
     }
 }
+
+
+
+
+ 
+
+
